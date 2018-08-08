@@ -1,6 +1,6 @@
 {
-  "name": "snekfetch",
-  "version": "4.0.4",
+  "name": "ionafetch",
+  "version": "1.0.0",
   "main": "src/index",
   "module": "src/index.mjs",
   "unpkg": "browser.js",
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devsnek/snekfetch.git",
-    "homepage": "https://github.com/devsnek/snekfetch"
+    "url": "git+https://github.com/ionadev/ionafetch.git",
+    "homepage": "https://github.com/ionadev/ionafetch"
   },
   "author": "Gus Caplan <me@gus.host>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devsnek/snekfetch/issues"
+    "url": "https://github.com/ionadev/ionafetch/issues"
   },
-  "homepage": "https://snekfetch.js.org/",
+
   "dependencies": {},
   "devDependencies": {
     "@snek/syncify": "0.0.6",
